@@ -25,6 +25,5 @@ ELSE:
     IDENTIFY Pound Sterling as c_type1 or c_type2
     CHANGE this value to or from Pound Sterling
     RETURN int of c_type2
-...
 ```
 
