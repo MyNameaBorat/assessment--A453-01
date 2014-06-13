@@ -27,3 +27,11 @@ ELSE:
     RETURN int of c_type2
 ```
 
+
+##variables
+Variables used | type | discussion
+----|----|----
+currencyFrom|intger|
+currencyTo|intger|
+symbols|list of strings|
+rate|list of floats|
