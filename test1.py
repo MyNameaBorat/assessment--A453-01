@@ -40,3 +40,4 @@ if Currency = JPY and to = GBP:
 if Currency = JPY and to = JPY:
     print ammount*1
     
+#This should make the ammount you put in total to the exchange rate of the other rates
